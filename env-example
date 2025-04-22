@@ -1,0 +1,27 @@
+# === OpenAI Configuration ===
+# Your OpenAI API key (from https://platform.openai.com/account/api-keys)
+OPENAI_API_KEY=your-openai-api-key
+
+# The ID of the OpenAI Assistant you created
+ASSISTANT_ID=your-assistant-id
+
+# The ID of the vector store you attached to your Assistant
+VECTOR_STORE_ID=your-vector-store-id
+
+# === Gmail Label Configuration ===
+# The Gmail label ID you apply to sent messages you want to index
+GMAIL_LABEL_ID=Label_XXXXXXXXXXXXXXXX
+
+# === Signature Stripping ===
+# The text marker that separates your signature in sent emails
+SIGNATURE_MARKER=--
+
+# Your email signature, with “\n” for line breaks
+EMAIL_SIGNATURE="-- \nYour Name\nyourwebsite.com\nYour Title"
+
+# === Google OAuth2 Configuration ===
+# Path to your Gmail OAuth client secrets JSON (downloaded from Google Cloud)
+GOOGLE_CREDENTIALS_PATH=credentials.json
+
+# Redirect URI configured in your Google OAuth consent screen
+REDIRECT_URI=http://localhost:8888/

@@ -1,0 +1,31 @@
+# Python virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+last_run.json
+token.json
+credentials.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA / PyCharm
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# Others
+*.swp
