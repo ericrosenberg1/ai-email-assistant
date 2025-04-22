@@ -153,7 +153,7 @@ Add these lines (replace `eric` with your username):
 
 ## 🧑‍💻 Maintainer
 
-**Your Name** – yourwebsite.com – [@YourHandle](https://twitter.com/YourHandle)  
+**EricRosenberg** – https://eric.money
 
 ---
 
